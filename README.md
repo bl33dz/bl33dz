@@ -1,6 +1,6 @@
 <h3 align="center">ようこそ！</h3>
 <samp>
-  <p align="center">[<a href="https://gazzz.my.id">web</a>]</p>
+  <p align="center">[<a href="https://bgz.app/">web</a>]</p>
 </samp>
 
 <details align="center">
